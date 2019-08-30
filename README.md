@@ -3,3 +3,5 @@ Começo dos estudos em Python 3
 
 Introdução ao Python
 Conteúdo sendo estudado via Curso em Vídeo
+
+utilizando como BACKUP de exercícios e teoría
